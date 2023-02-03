@@ -144,12 +144,15 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: NewHorizon
-      description: New Horizon sites in location.
       closed: true
     - name: Palm Springs
+      closed: true
     - name: Honeywell
-    - name: Empty Category
+      closed: true
+    - name: Quartax
+      closed: true
     - name: Uncategorized
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -289,14 +292,15 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: We continuously monitor the status of our EMS strings and if there are any interruptions.
 
   # Tabs on homepage
   # Uncomment to enable.
   #
-  # Format:
-  # customTabs:
-  #  -
+  Format:
+   customTabs:
+    - name: Goog
+      link: https://google.com
   #    name: Name
   #    link: https://example.com
 
