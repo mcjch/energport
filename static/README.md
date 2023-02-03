@@ -2,7 +2,6 @@ This folder can be used to store any static content that you may want to link to
 
 You may replace the default favicons by creating icons with these names:
 
-- ep.png
 - favicon-16x16.png
 - favicon-32x32.png
 - favicon.png
