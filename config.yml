@@ -300,7 +300,7 @@ params:
   Format:
    customTabs:
     - name: Goog
-      link: https://google.com
+      link: google.com
   #    name: Name
   #    link: https://example.com
 
